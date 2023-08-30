@@ -1,4 +1,4 @@
 # college-student
-this is my first git repository
+This is my first git repository
 <br>
-author-zainab khatoon
+Author-zainab khatoon
